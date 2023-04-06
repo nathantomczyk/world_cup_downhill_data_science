@@ -1,0 +1,11 @@
+name: dh_data_shiny_app
+title:
+username:
+account: nathantomczyk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8787151
+bundleId: 7059407
+url: https://nathantomczyk.shinyapps.io/dh_data_shiny_app/
+when: 1680821245.93962
+lastSyncTime: 1680821245.93962
